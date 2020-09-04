@@ -1,0 +1,11 @@
+body {
+    font-size: 1em;
+}
+
+ul > li {
+    list-style-type: none;
+}
+ul> li:hover {
+    padding: 2em;
+    color: darkorange;
+}
