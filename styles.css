@@ -4,6 +4,7 @@ body {
 
 ul > li {
     list-style-type: none;
+    font-family: 'Courier New', Courier, monospace;
 }
 ul> li:hover {
     padding: 2em;
