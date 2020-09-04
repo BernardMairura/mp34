@@ -1,0 +1,15 @@
+body {
+    font-size: 1em;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ul > li {
+    list-style-type: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+ul> li:hover {
+    padding: 2em;
+    color: darkorange;
+}
